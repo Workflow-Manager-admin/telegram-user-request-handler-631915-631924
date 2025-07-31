@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/telegram-user-request-handler-631915-631924/telegram_bot_backend"
+}
